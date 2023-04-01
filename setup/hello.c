@@ -4,7 +4,7 @@ int main()
 {
     int n;
 
-    printf("Hello Omar, ");
+    printf("Hello Molla Omar! ");
 
     printf("Please enter your age:");
 
